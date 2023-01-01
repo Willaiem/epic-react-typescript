@@ -1,4 +1,8 @@
 # Epic React (TypeScript)
+<img
+      alt="Learn React from Start to Finish"
+      src="https://kentcdodds.com/images/epicreact-promo/er-1.gif"
+    />
 Epic React, but rewritten to TypeScript (and updated to React 18)
 
 - [React Fundamentals](https://github.com/Willaiem/react-fundamentals-typescript)
