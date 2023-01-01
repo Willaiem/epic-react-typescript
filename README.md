@@ -1,4 +1,4 @@
-# epic-react-typescript
+# Epic React (TypeScript)
 Epic React, but rewritten to TypeScript (and updated to React 18)
 
 - [React Fundamentals](https://github.com/Willaiem/react-fundamentals-typescript)
